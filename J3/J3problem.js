@@ -1,3 +1,5 @@
+// J3 (2011)
+
 window.onload=function () {
 	var formHandle = document.forms[0];
 	

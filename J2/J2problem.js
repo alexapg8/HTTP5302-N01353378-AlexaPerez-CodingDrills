@@ -1,3 +1,5 @@
+// J2 (2014)
+
 window.onload=function () {
 	var formHandle = document.forms[0];
 	
